@@ -1,3 +1,3 @@
-## What silly things i am trying out
+## Some of the things i'm trying out
 
 Check out my code pen or something.
