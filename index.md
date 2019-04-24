@@ -2,4 +2,4 @@
 
 Check out my code pen or something.
 
-* [Geez clock] (https://editor.p5js.org/miki_tebe/full/CEEyU2I6L)
+*  [Geez clock](https://editor.p5js.org/miki_tebe/full/CEEyU2I6L)
